@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cfd88aa9.chunk.css",
+    "main.js": "/static/js/main.8c06f1ca.chunk.js",
+    "main.js.map": "/static/js/main.8c06f1ca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b8ff3e3a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b8ff3e3a.js.map",
+    "static/js/2.91994dac.chunk.js": "/static/js/2.91994dac.chunk.js",
+    "static/js/2.91994dac.chunk.js.map": "/static/js/2.91994dac.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cfd88aa9.chunk.css.map": "/static/css/main.cfd88aa9.chunk.css.map",
+    "static/js/2.91994dac.chunk.js.LICENSE.txt": "/static/js/2.91994dac.chunk.js.LICENSE.txt",
+    "static/media/coins-swym.svg": "/static/media/coins-swym.f079b2c6.svg",
+    "static/media/logo-swym.svg": "/static/media/logo-swym.de63c951.svg",
+    "static/media/pool-swym.svg": "/static/media/pool-swym.69b715fd.svg",
+    "static/media/svg-1.955ca209.svg": "/static/media/svg-1.955ca209.svg",
+    "static/media/svg-3.470b1d5e.svg": "/static/media/svg-3.470b1d5e.svg",
+    "static/media/svg-7.0a6c0f0e.svg": "/static/media/svg-7.0a6c0f0e.svg",
+    "static/media/swym-apple.svg": "/static/media/swym-apple.98b57e58.svg",
+    "static/media/swym-cellphone.72634a1f.svg": "/static/media/swym-cellphone.72634a1f.svg",
+    "static/media/swympoolparty.svg": "/static/media/swympoolparty.03436b25.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8ff3e3a.js",
+    "static/js/2.91994dac.chunk.js",
+    "static/css/main.cfd88aa9.chunk.css",
+    "static/js/main.8c06f1ca.chunk.js"
+  ]
+}
